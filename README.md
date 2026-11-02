@@ -71,4 +71,4 @@ Download the `xcframework.zip` files from the [releases page](https://github.com
 
 ## License
 
-See the SDK license agreement that accompanies the PingOne Wallet SDK distribution.
+Use of this SDK is subject to the [SDK License Agreement](./LICENSE_SDK.txt). This distribution includes third-party software — see [iOS_SDK_Legal.md](./iOS_SDK_Legal.md) for attributions, copyrights, and licenses.
